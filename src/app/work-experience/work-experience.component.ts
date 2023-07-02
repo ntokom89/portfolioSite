@@ -12,11 +12,10 @@ export class WorkExperienceComponent implements OnInit {
       company: 'Alchemy Asset Management',
       duration: 'Jan 2023 - Now',
       description: [
-       '●	I work with a team to complete the education web application that started development by the previous team.',
-       '●	The payment system was added, allowing payments for content.',
+       '●	Added the payment system using PayPal, allowing payments for content.',
        '●	Video upload added with video streaming optimised, improving user experience when viewing videos.',
-       '●	Adverts added to the web application.',
-       '●	Admin is now able to add a variety of course content like videos and files.',
+       '●	Adverts added to the web application to get revenue for the web application',
+       '●	Modified course content upload which is able to upload videos and files like PowerPoint and pdf.',
        '●	Technologies: Angular with Ionic Framework, Typescript, HTML, CSS, Firebase, REST API.'
        
       ],

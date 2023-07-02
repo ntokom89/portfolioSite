@@ -16,7 +16,18 @@ export class EducationComponent implements OnInit {
     institute: 'IIE Varsity College Waterfall',
     course: 'IIE Bachelor of Computer and Information Sciences in Application Development',
     duration: '2020-2022'
-  },];
+  },
+  {
+    institute: 'Oak Academy',
+    course: 'Full Android 11 Masterclass Course',
+    duration: '2021-2022'
+  },
+  {
+    institute: 'Microsoft',
+    course: 'AZ-900',
+    duration: '2022'
+  },
+];
 
   constructor(){}
   ngOnInit(): void{
